@@ -1,4 +1,5 @@
 import React from "react";
+import programmerImg from "../assets/programmer-night.jpg";
 
 export default function Hero() {
   return (
@@ -73,11 +74,7 @@ export default function Hero() {
               </a>
             </div>
           </div>
-          <img
-            src="/src/assets/programmer-night.jpg"
-            className="hero-photo"
-            alt="developer-image"
-          />
+          <img src={programmerImg} alt="Programmer at night" />
         </div>
       </div>
     </section>
