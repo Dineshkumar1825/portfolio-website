@@ -54,7 +54,7 @@ export default function Navbar() {
                 </li>
               ))}
 
-              <li className="ms-lg-4 mt-3 mt-lg-0">
+              {/* <li className="ms-lg-4 mt-3 mt-lg-0">
                 <a
                   href="Dinesh_Resume.pdf"
                   download="Dinesh_Resume.pdf"
@@ -62,6 +62,16 @@ export default function Navbar() {
                 >
                   Download CV
                   <i className="bi bi-download ms-2"></i>
+                </a>
+              </li> */}
+
+              <li className="ms-lg-4 mt-3 mt-lg-0">
+                <a
+                  href={`${import.meta.env.BASE_URL}Dinesh_Resume.pdf`}
+                  download
+                  className="download-btn"
+                >
+                  Download CV
                 </a>
               </li>
             </ul>
