@@ -74,7 +74,7 @@ export default function Hero() {
               </a>
             </div>
           </div>
-          <img src={programmerImg} alt="Programmer at night" />
+          <img className="hero-photo" src={programmerImg} alt="Programmer at night" />
         </div>
       </div>
     </section>
