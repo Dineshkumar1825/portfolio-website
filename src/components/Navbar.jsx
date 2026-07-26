@@ -28,7 +28,7 @@ export default function Navbar() {
                 Dinesh<span>Kumar</span>
               </h5>
 
-              <small className="logo-subtitle">Full Stack Developer</small>
+              <small className="logo-subtitle">Full Stack MERN Developer</small>
             </div>
           </a>
 

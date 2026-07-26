@@ -16,7 +16,7 @@ export default function Hero() {
               <br />
               Purushothaman
             </h1>
-            <h3 className="hero-role">MERN Stack Developer</h3>
+            <h3 className="hero-role">Full Stack MERN Developer</h3>
             <p className="hero-description">
               Building scalable, responsive, and high-performance web
               applications using React.js, Node.js, Express.js, MongoDB, and
