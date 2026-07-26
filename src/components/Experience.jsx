@@ -6,12 +6,12 @@ const experiences = [
     company: "Longshore Labs Private Limited – Chennai",
     duration: "Dec 2022 – present",
     points: [
-      "A financial platform handling funds, investor onboarding, KYC/AML workflows, and transaction processing",
-      "Built reporting and statement engines to generate real-time financial statements, transaction histories, and compliance reports for clients and investors",
-      "Built AI onboarding features using OpenAI to automate contact and business entity verification",
-      "Created an AI document tool allowing users to upload files and query contents via OpenAI",
-      "Designed secure REST APIs using Node.js, Express.js, and MongoDB for scalable data processing",
-      "Managed Agile sprint cycles, including requirement gathering, task assignment and release documentation",
+      "Developed a financial platform for fund and investor onboarding, supporting KYC/AML verification, transaction processing, and regulatory compliance workflows.",
+      "Engineered a real-time reporting and statement engine to generate financial statements, transaction histories, and compliance reports for funds, investors, and internal stakeholders.",
+      "Developed an AI-powered Smart Onboarding solution using the OpenAI API to automatically extract, verify, and populate contact and business entity information from uploaded documents, reducing manual effort and improving onboarding efficiency",
+      "Built an AI Document Assistant that enables users to upload documents and query their contents using natural language through the OpenAI API, streamlining document search and data extraction",
+      "Designed and developed secure, scalable RESTful APIs using Node.js, Express.js, and MongoDB to support financial data processing and application integrations",
+      "Collaborated in an Agile/Scrum environment, participating in requirement analysis, sprint planning, task estimation, development, testing, and release management to ensure timely delivery of high-quality software",
     ],
   },
   {
@@ -19,11 +19,11 @@ const experiences = [
     company: "IppoPay Technologies Private Limited – Chennai",
     duration: "July 2022 – Sept 2024",
     points: [
-      "Worked on Tutelar, a fraud prevention platform designed to detect, prevent, and manage online fraud risks through automated workflows and risk assessment solutions",
-      "Developed and enhanced AML risk assessment modules to analyze individual and business profiles, evaluate risk factors, and support data-driven decision-making",
-      "Implemented Dispute Management workflows enabling users to raise, track, and manage fraudulent transaction disputes with status updates and resolution processes",
-      "Built and maintained a Ticketing Management System for issue creation, assignment, tracking, and streamlined communication between users and support teams",
-      "Developed scalable frontend and backend features using MERN stack technologies (React.js, Node.js, Express.js, MongoDB, JavaScript) following clean coding practices and Agile methodologies",
+      "Developed TUTELAR, a fraud prevention platform designed to detect, prevent, and manage online fraud through AML risk assessment, dispute management, and workflow automation.",
+      "Built an AML Risk Assessment module to evaluate individual and business profiles, automate compliance checks, identify fraud risks, and support data-driven decision-making for Anti-Money Laundering (AML) compliance.",
+      "Designed and implemented Dispute Management workflows to create, investigate, track, and resolve fraudulent transaction cases, including bulk dispute creation via CSV uploads, improving operational efficiency and regulatory compliance.",
+      "Developed a Ticket Management System for issue creation, assignment, workflow automation, status tracking, and seamless collaboration between users, support teams, and cross-functional stakeholders.",
+      "Designed and developed scalable frontend and backend features using the MERN Stack (React.js, Node.js, Express.js, MongoDB, JavaScript), following clean architecture, RESTful API design, and Agile development practices.",
     ],
   },
   {
@@ -31,7 +31,9 @@ const experiences = [
     company: "TNQ Technologies Private Limited – Chennai",
     duration: "July 2017 – April 2022",
     points: [
-      "Skilled in creating and fixing book layouts using Adobe InDesign, delivering publication-ready files for both print and digital formats",
+      "Imported and formatted XML content into Adobe InDesign templates to create publication-ready book layouts, ensuring accurate formatting, typography, and page composition for print and digital publishing.",
+      "Performed layout modifications, content alignment, image placement, pagination, and formatting corrections while collaborating with the Quality Control (QC) team to resolve production issues and maintain publishing standards.",
+      "Generated and validated print-ready and web-ready PDF files, implementing revision requests and delivering high-quality, production-ready outputs within project deadlines.",
     ],
   },
 ];
