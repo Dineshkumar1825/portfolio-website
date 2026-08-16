@@ -83,7 +83,7 @@ const skillGroups = [
       "Jenkins",
       "Azure DevOps",
       "CI/CD Pipelines",
-      "AWS (EC2, S3 - Basic)",
+      "AWS (EC2, S3, Amlify)",
       "Kong API Gateway",
       "Grafana",
       "SonarQube",

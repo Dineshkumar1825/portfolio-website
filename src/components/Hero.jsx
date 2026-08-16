@@ -1,5 +1,5 @@
 import React from "react";
-import programmerImg from "../assets/programmer-night.jpg";
+import programmerImg from "../assets/profile.png";
 
 export default function Hero() {
   return (
@@ -23,8 +23,10 @@ export default function Hero() {
               JavaScript. Passionate about designing clean, maintainable
               architectures, developing secure RESTful APIs, optimizing
               application performance, and creating seamless user experiences.
-              Experienced in Agile development, Git-based collaboration, and
-              delivering reliable, production-ready software solutions.
+              Additionally experienced in integrating AI-powered features and LLM APIs to enhance application capabilities
+              and automation. Experienced in Agile development, Git-based
+              collaboration, and delivering reliable, production ready software
+              solutions.
             </p>
             {/* <div className="d-flex flex-wrap gap-5 mb-4">
               <a
@@ -74,7 +76,11 @@ export default function Hero() {
               </a>
             </div>
           </div>
-          <img className="hero-photo" src={programmerImg} alt="Programmer at night" />
+          <img
+            className="hero-photo"
+            src={programmerImg}
+            alt="Programmer at night"
+          />
         </div>
       </div>
     </section>
